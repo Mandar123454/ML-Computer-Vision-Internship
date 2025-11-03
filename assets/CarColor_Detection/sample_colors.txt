@@ -1,0 +1,12 @@
+black
+white
+gray
+silver
+blue
+red
+green
+yellow
+orange
+brown
+gold
+maroon

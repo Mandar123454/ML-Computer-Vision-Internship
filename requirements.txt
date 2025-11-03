@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+tensorflow
+tensorflow-hub
+scikit-learn
+mtcnn
+joblib
+PyQt5
+PyQt6
+pillow
+gradio
+streamlit
+dlib

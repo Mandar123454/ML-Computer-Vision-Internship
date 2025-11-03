@@ -1,0 +1,3 @@
+images/animal_01.jpg
+images/animal_02.jpg
+videos/zoo_short.mp4

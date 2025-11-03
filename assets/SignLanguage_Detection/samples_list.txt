@@ -1,0 +1,3 @@
+sequences/A/001/frame_0001.jpg
+sequences/A/001/frame_0002.jpg
+videos/hello_short.mp4
