@@ -54,4 +54,4 @@ Open the notebooks in VS Code or Jupyter and run cells top-to-bottom. Many noteb
 
 ## Documentation
 
-See `TechDoc.md.md` for detailed steps, assumptions, and per-project notes.
+See `TechDoc.md` for detailed steps, assumptions, and per-project notes.
